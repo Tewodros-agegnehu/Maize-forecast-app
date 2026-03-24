@@ -11,7 +11,7 @@ This project develops an accurate and interpretable forecasting system for Ethio
 
 The complete Machine Learning lifecycle (from problem definition to deployment) was implemented as part of an MSc Artificial Intelligence assignment. Due to course constraints, only **Linear Regression** was used.
 
-**Live Demo**: [https://maize-forecast-app.streamlit.app](https://maize-forecast-app.streamlit.app) *(replace with your actual link after deployment)*
+**Live Demo**: [https://maize-forecast-app.streamlit.app](https://maize-forecast-app.streamlit.app) 
 
 ---
 
